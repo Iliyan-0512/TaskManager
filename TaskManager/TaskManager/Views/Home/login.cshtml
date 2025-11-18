@@ -1,0 +1,21 @@
+@{
+    ViewData["Title"] = "Login";
+    <link rel="stylesheet" href="~/reg_form.css">
+}
+
+    <form>
+      <div class="container">
+        <h1>Login</h1>
+        <p>Fill the blank to login.</p>
+        <label for="username"><b>Username</b></label>
+        <input type="text" placeholder="Enter username" name="username" id="username" required />
+
+        <label for="pwd"><b>Password</b></label>
+        <input type="password" placeholder="Enter Password" name="pwd" id="pwd" required/>
+
+        <button type="submit">Login</button>
+      </div>
+      <div>
+        <p>You still dont have an account?<a href = "/Home/register" >Sign UP now.</a></p>
+      </div>
+    </form>
