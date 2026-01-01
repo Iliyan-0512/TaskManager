@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using TaskManager.Models;
+using Microsoft.Extensions.Logging;
 
 namespace TaskManager.Controllers
 {

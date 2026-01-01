@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using System.Reflection.Emit;
 using TaskManager.Models;
 using ModelsTask = TaskManager.Models.Task;
@@ -9,9 +9,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace TaskManager.Data
 {
-    public class TaskManagementContext : DbContext
+    // Класът вече наследява правилния клас IdentityDbContext<User>
+    public class TaskManagementContext : IdentityDbContext<User>
     {
-        public DbSet<User> Users { get; set; }
+        // DbSet<User> е премахнат, IdentityDbContext го добавя автоматично
+        // public DbSet<User> Users { get; set; } 
         public DbSet<Category> Categories { get; set; }
         public DbSet<ModelsTaskStatus> Statuses { get; set; }
         public DbSet<TaskPriority> Priorities { get; set; }
@@ -22,6 +24,9 @@ namespace TaskManager.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            
+            base.OnModelCreating(modelBuilder);
+
             modelBuilder.Entity<ModelsTaskStatus>().HasData(
                 new ModelsTaskStatus { Id = 1, Name = "New" },
                 new ModelsTaskStatus { Id = 2, Name = "In Progress" },
@@ -34,7 +39,7 @@ namespace TaskManager.Data
                 new TaskPriority { Id = 3, Name = "High" }
             );
 
-            base.OnModelCreating(modelBuilder);
+
         }
     }
 }

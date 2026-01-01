@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.Extensions.Configuration;
 using System.IO;
 
-namespace TaskManager.Data
+namespace TaskManager.Data.Migrati
 {
     public class TaskManagementContextFactory : IDesignTimeDbContextFactory<TaskManagementContext>
     {
