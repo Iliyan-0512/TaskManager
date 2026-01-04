@@ -1,7 +1,7 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-using System;
 namespace TaskManager.Models
 {
     public class Task
@@ -15,23 +15,22 @@ namespace TaskManager.Models
 
         public string Description { get; set; }
 
-       
-        [ForeignKey("User")]
-        public int UserId { get; set; }
+        // FK към Identity User (IdentityUser.Id е string)
+        [Required]
+        public string UserId { get; set; }
+
+        [ForeignKey(nameof(UserId))]
         public User User { get; set; }
 
-        
-        [ForeignKey("Category")]
+        [ForeignKey(nameof(Category))]
         public int CategoryId { get; set; }
         public Category Category { get; set; }
 
-       
-        [ForeignKey("Status")]
+        [ForeignKey(nameof(Status))]
         public int StatusId { get; set; }
         public TaskStatus Status { get; set; }
 
-       
-        [ForeignKey("Priority")]
+        [ForeignKey(nameof(Priority))]
         public int PriorityId { get; set; }
         public TaskPriority Priority { get; set; }
 
