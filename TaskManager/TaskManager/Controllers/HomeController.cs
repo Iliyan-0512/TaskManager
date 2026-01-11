@@ -88,5 +88,12 @@ namespace TaskManager.Controllers
         {
             return View();
         }
+        [AllowAnonymous]
+        [HttpGet]
+        public IActionResult Index()
+        {
+            return View();
+        }
+
     }
 }

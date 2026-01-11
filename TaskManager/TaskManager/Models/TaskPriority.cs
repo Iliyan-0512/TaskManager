@@ -9,6 +9,6 @@ namespace TaskManager.Models
         [Required]
         [MaxLength(50)]
         public string Name { get; set; }
-        public ICollection<Task> Tasks { get; set; }
+        public ICollection<TaskItem> Tasks { get; set; }
     }
 }

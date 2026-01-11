@@ -12,6 +12,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 
+
 // DbContext
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
@@ -34,6 +35,7 @@ builder.Services
 builder.Services
     .AddAuthentication(IdentityConstants.ApplicationScheme)
     .AddIdentityCookies();
+
 
 builder.Services.AddAuthorization();
 

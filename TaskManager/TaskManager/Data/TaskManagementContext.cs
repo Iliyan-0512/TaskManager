@@ -1,19 +1,20 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+
 using System.Reflection.Emit;
 using TaskManager.Models;
-using ModelsTask = TaskManager.Models.Task;
+using ModelsTask = TaskManager.Models.TaskItem;
 using ModelsTaskStatus = TaskManager.Models.TaskStatus;
 using Microsoft.EntityFrameworkCore;
 
 namespace TaskManager.Data
 {
-    // Класът вече наследява правилния клас IdentityDbContext<User>
+   
     public class TaskManagementContext : IdentityDbContext<User>
     {
-        // DbSet<User> е премахнат, IdentityDbContext го добавя автоматично
-        // public DbSet<User> Users { get; set; } 
+        
+        
         public DbSet<Category> Categories { get; set; }
         public DbSet<ModelsTaskStatus> Statuses { get; set; }
         public DbSet<TaskPriority> Priorities { get; set; }

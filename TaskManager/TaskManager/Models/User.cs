@@ -9,6 +9,6 @@ namespace TaskManager.Models
     {
         
         
-        public ICollection<Task> Tasks { get; set; }
+        public ICollection<TaskItem> Tasks { get; set; }
     }
 }
