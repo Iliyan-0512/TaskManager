@@ -3,12 +3,56 @@
   "WorkspaceRootPath": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\tasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\tasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\wwwroot\\css\\form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\wwwroot\\css\\form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\tasks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\tasks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,30 +71,6 @@
       "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\tasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\tasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\tasks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\tasks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -61,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\migrations\\20260104225131_initialidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\migrations\\20260104225131_initialidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Migrations\\20260111111145_RenameTaskToTaskItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskManager\\Migrations\\20260111111145_RenameTaskToTaskItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,16 +115,8 @@
       "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -117,6 +125,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|c:\\iliyan\\proggraming\\project\\todolistasp\\taskmanager\\taskmanager\\taskmanager\\migrations\\20260111111145_renametasktotaskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DB7020-8868-410E-8D41-98CD9FA1ADD7}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\migrations\\20260111111145_renametasktotaskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,63 +138,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TaskManager\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TaskManager\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "TaskManager\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-11T12:36:17.273Z",
+              "WhenOpened": "2026-01-11T18:41:40.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\Tasks\\Edit.cshtml",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Edit.cshtml",
+              "RelativeToolTip": "TaskManager\\Views\\Tasks\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-11T12:03:34.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Index.cshtml",
               "RelativeDocumentMoniker": "TaskManager\\Views\\Tasks\\Index.cshtml",
               "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Index.cshtml",
               "RelativeToolTip": "TaskManager\\Views\\Tasks\\Index.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-11T12:00:17.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Program.cs",
-              "RelativeDocumentMoniker": "TaskManager\\Program.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Program.cs",
-              "RelativeToolTip": "TaskManager\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T18:09:42.043Z",
+              "DocumentIndex": 4,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Home\\login.cshtml",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\Home\\login.cshtml",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Home\\login.cshtml",
+              "RelativeToolTip": "TaskManager\\Views\\Home\\login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T18:09:50.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "TaskManager\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-04T22:16:15.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TaskManager\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-11T12:36:17.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Details.cshtml",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\Tasks\\Details.cshtml",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Details.cshtml",
+              "RelativeToolTip": "TaskManager\\Views\\Tasks\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-11T12:01:49.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\Tasks\\Delete.cshtml",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Delete.cshtml",
+              "RelativeToolTip": "TaskManager\\Views\\Tasks\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-11T12:03:53.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Create.cshtml",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\Tasks\\Create.cshtml",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Create.cshtml",
+              "RelativeToolTip": "TaskManager\\Views\\Tasks\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-11T12:02:08.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "TaskManager\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "TaskManager\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T22:31:06.804Z",
+              "Title": "form.css",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\wwwroot\\css\\form.css",
+              "RelativeDocumentMoniker": "TaskManager\\wwwroot\\css\\form.css",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\wwwroot\\css\\form.css",
+              "RelativeToolTip": "TaskManager\\wwwroot\\css\\form.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-11T18:27:52.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "TasksController.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "TaskManager\\Controllers\\TasksController.cs",
@@ -190,25 +280,49 @@
               "RelativeToolTip": "TaskManager\\Controllers\\TasksController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAywHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T07:58:33.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T07:58:33.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TaskManager\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TaskManager\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAowGAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TaskManager\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T19:16:31.499Z",
+              "WhenOpened": "2025-12-11T22:31:06.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Program.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Program.cs",
+              "RelativeToolTip": "TaskManager\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T18:09:42.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TaskManager\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TaskManager\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-11T18:19:29.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "TaskManager\\Views\\_ViewStart.cshtml",
@@ -220,12 +334,20 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TaskManager\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TaskManager\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAowGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:16:31.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TaskManager\\Views\\Home\\Index.cshtml",
@@ -233,64 +355,11 @@
               "RelativeToolTip": "TaskManager\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T18:09:42.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T18:09:42.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Details.cshtml",
-              "RelativeDocumentMoniker": "TaskManager\\Views\\Tasks\\Details.cshtml",
-              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Details.cshtml",
-              "RelativeToolTip": "TaskManager\\Views\\Tasks\\Details.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-11T12:01:49.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Create.cshtml",
-              "RelativeDocumentMoniker": "TaskManager\\Views\\Tasks\\Create.cshtml",
-              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Create.cshtml",
-              "RelativeToolTip": "TaskManager\\Views\\Tasks\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-11T12:02:08.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Edit.cshtml",
-              "RelativeDocumentMoniker": "TaskManager\\Views\\Tasks\\Edit.cshtml",
-              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Edit.cshtml",
-              "RelativeToolTip": "TaskManager\\Views\\Tasks\\Edit.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-11T12:03:34.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Delete.cshtml",
-              "RelativeDocumentMoniker": "TaskManager\\Views\\Tasks\\Delete.cshtml",
-              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Tasks\\Delete.cshtml",
-              "RelativeToolTip": "TaskManager\\Views\\Tasks\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-11T12:03:53.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "TaskManager\\Models\\TaskItem.cs",
@@ -298,12 +367,11 @@
               "RelativeToolTip": "TaskManager\\Models\\TaskItem.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T18:09:42.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T18:09:42.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 31,
               "Title": "20260111111145_RenameTaskToTaskItem.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Migrations\\20260111111145_RenameTaskToTaskItem.cs",
               "RelativeDocumentMoniker": "TaskManager\\Migrations\\20260111111145_RenameTaskToTaskItem.cs",
@@ -311,12 +379,11 @@
               "RelativeToolTip": "TaskManager\\Migrations\\20260111111145_RenameTaskToTaskItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T11:11:45.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T11:11:45.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "20260104225131_InitialIdentity.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Migrations\\20260104225131_InitialIdentity.cs",
               "RelativeDocumentMoniker": "TaskManager\\Migrations\\20260104225131_InitialIdentity.cs",
@@ -324,12 +391,11 @@
               "RelativeToolTip": "TaskManager\\Migrations\\20260104225131_InitialIdentity.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T22:51:31.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T22:51:31.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "TaskManagementContext.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Data\\TaskManagementContext.cs",
               "RelativeDocumentMoniker": "TaskManager\\Data\\TaskManagementContext.cs",
@@ -337,12 +403,11 @@
               "RelativeToolTip": "TaskManager\\Data\\TaskManagementContext.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAxwC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T18:09:42.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T18:09:42.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "TaskStatus.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Models\\TaskStatus.cs",
               "RelativeDocumentMoniker": "TaskManager\\Models\\TaskStatus.cs",
@@ -350,12 +415,11 @@
               "RelativeToolTip": "TaskManager\\Models\\TaskStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T18:09:42.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T18:09:42.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "TaskPriority.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Models\\TaskPriority.cs",
               "RelativeDocumentMoniker": "TaskManager\\Models\\TaskPriority.cs",
@@ -363,12 +427,11 @@
               "RelativeToolTip": "TaskManager\\Models\\TaskPriority.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T18:09:42.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T18:09:42.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Models\\User.cs",
               "RelativeDocumentMoniker": "TaskManager\\Models\\User.cs",
@@ -376,12 +439,11 @@
               "RelativeToolTip": "TaskManager\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T18:09:42.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T18:09:42.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\appsettings.json",
               "RelativeDocumentMoniker": "TaskManager\\appsettings.json",
@@ -393,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "TaskManager.csproj",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\TaskManager.csproj",
               "RelativeDocumentMoniker": "TaskManager\\TaskManager.csproj",
@@ -405,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "TaskManagementContextFactory.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Data\\TaskManagementContextFactory.cs",
               "RelativeDocumentMoniker": "TaskManager\\Data\\TaskManagementContextFactory.cs",
@@ -417,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "TaskManagementContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Migrations\\TaskManagementContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "TaskManager\\Migrations\\TaskManagementContextModelSnapshot.cs",
@@ -429,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\appsettings.Development.json",
               "RelativeDocumentMoniker": "TaskManager\\appsettings.Development.json",
@@ -441,19 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "login.cshtml",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Home\\login.cshtml",
-              "RelativeDocumentMoniker": "TaskManager\\Views\\Home\\login.cshtml",
-              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Home\\login.cshtml",
-              "RelativeToolTip": "TaskManager\\Views\\Home\\login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T18:09:50.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "TaskManager\\Models\\LoginViewModel.cs",
@@ -465,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Models\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "TaskManager\\Models\\RegisterViewModel.cs",
@@ -477,19 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Home\\Register.cshtml",
-              "RelativeDocumentMoniker": "TaskManager\\Views\\Home\\Register.cshtml",
-              "ToolTip": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Views\\Home\\Register.cshtml",
-              "RelativeToolTip": "TaskManager\\Views\\Home\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-04T22:16:15.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\iliyan\\proggraming\\project\\ToDoListAsp\\TaskManager\\TaskManager\\TaskManager\\Models\\Category.cs",
               "RelativeDocumentMoniker": "TaskManager\\Models\\Category.cs",
@@ -497,8 +535,7 @@
               "RelativeToolTip": "TaskManager\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T18:09:42.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T18:09:42.163Z"
             }
           ]
         }

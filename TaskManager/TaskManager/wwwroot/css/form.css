@@ -1,50 +1,55 @@
-form{
+
+.auth-page {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
     align-items: center;
+    min-height: 100vh;
+    margin: 0;
 }
-.container{
+
+
+.auth-card {
     display: flex;
     flex-direction: column;
     width: 25vw;
     border-radius: 5px;
     padding: 2em;
-        background-color: #8a87870d;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #8a87870d;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.19);
 }
 
-h1, p{
+   
+    .auth-card form {
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+h1, p {
     text-align: center;
 }
-input{
-  margin-bottom: 0.5em;
-  outline: none;
-  padding: 0.5em;
-  border: none;
-  background-color: rgb(225, 225, 225);
-  border-radius: 0.25em;
-  color: black;
+
+input {
+    margin-bottom: 0.5em;
+    outline: none;
+    padding: 0.5em;
+    border: none;
+    background-color: rgb(225,225,225);
+    border-radius: 0.25em;
+    color: black;
 }
-/* styles for button */
+
 button {
-  padding: 0.75em;
-  border: none;
-  outline: none;
-  background-color: rgb(68, 18, 232);
-  color: white;
-  border-radius: 0.25em;
-  margin-top: 2em;
+    padding: 0.75em;
+    border: none;
+    outline: none;
+    background-color: rgb(68,18,232);
+    color: white;
+    border-radius: 0.25em;
+    margin-top: 1.5em;
 }
 
-button:hover {
-  cursor: pointer;
-  background-color: rgb(41, 4, 164);
-}
-
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;   
-    margin: 0;
-}
+    button:hover {
+        cursor: pointer;
+        background-color: rgb(41,4,164);
+    }

@@ -2,28 +2,30 @@
 @{
     ViewData["Title"] = "Login";
 }
-<link rel="stylesheet" href="~/reg_form.css" />
 
-<form method="post" asp-controller="Home" asp-action="Login">
-    <div class="container">
+<div class="auth-page">
+    <div class="auth-card">
         <h1>Login</h1>
         <p>Fill the blank to login.</p>
 
-        <div asp-validation-summary="All"></div>
+        <form method="post" asp-controller="Home" asp-action="Login">
+            <div asp-validation-summary="All"></div>
 
-        <label asp-for="UserName"><b>Username</b></label>
-        <input asp-for="UserName" placeholder="Enter username" />
+            <label asp-for="UserName"><b>Username</b></label>
+            <input asp-for="UserName" placeholder="Enter username" />
 
-        <label asp-for="Password"><b>Password</b></label>
-        <input asp-for="Password" placeholder="Enter Password" />
+            <label asp-for="Password"><b>Password</b></label>
+            <input asp-for="Password" placeholder="Enter Password" />
 
-        <label asp-for="RememberMe">Remember me</label>
-        <input asp-for="RememberMe" type="checkbox" />
+            <label asp-for="RememberMe">Remember me</label>
+            <input asp-for="RememberMe" type="checkbox" />
 
-        <button type="submit">Login</button>
+            <button type="submit">Login</button>
+        </form>
+
+        <p>
+            You still dont have an account?
+            <a asp-controller="Home" asp-action="Register">Sign up now.</a>
+        </p>
     </div>
-
-    <div>
-        <p>You still dont have an account? <a href="/Home/Register">Sign UP now.</a></p>
-    </div>
-</form>
+</div>
