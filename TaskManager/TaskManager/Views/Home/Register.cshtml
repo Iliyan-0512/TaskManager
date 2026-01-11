@@ -2,31 +2,33 @@
 @{
     ViewData["Title"] = "Register";
 }
-<link rel="stylesheet" href="~/reg_form.css" />
 
-<form method="post" asp-controller="Home" asp-action="Register">
-    <div class="container">
+<div class="auth-page">
+    <div class="auth-card">
         <h1>Register</h1>
         <p>Kindly fill in this form to register.</p>
 
-        <div asp-validation-summary="All"></div>
+        <form method="post" asp-controller="Home" asp-action="Register">
+            <div asp-validation-summary="All"></div>
 
-        <label asp-for="UserName"><b>Username</b></label>
-        <input asp-for="UserName" placeholder="Enter username" />
+            <label asp-for="UserName"><b>Username</b></label>
+            <input asp-for="UserName" placeholder="Enter username" />
 
-        <label asp-for="Email"><b>Email</b></label>
-        <input asp-for="Email" placeholder="Enter Email" />
+            <label asp-for="Email"><b>Email</b></label>
+            <input asp-for="Email" placeholder="Enter Email" />
 
-        <label asp-for="Password"><b>Password</b></label>
-        <input asp-for="Password" placeholder="Enter Password" />
+            <label asp-for="Password"><b>Password</b></label>
+            <input asp-for="Password" placeholder="Enter Password" />
 
-        <label asp-for="ConfirmPassword"><b>Repeat Password</b></label>
-        <input asp-for="ConfirmPassword" placeholder="Repeat Password" />
+            <label asp-for="ConfirmPassword"><b>Repeat Password</b></label>
+            <input asp-for="ConfirmPassword" placeholder="Repeat Password" />
 
-        <button type="submit">Register</button>
+            <button type="submit">Register</button>
+        </form>
+
+        <p>
+            Already have an account?
+            <a asp-controller="Home" asp-action="Login">Log in</a>.
+        </p>
     </div>
-
-    <div>
-        <p>Already have an account? <a href="/Home/Login">Log in</a>.</p>
-    </div>
-</form>
+</div>
